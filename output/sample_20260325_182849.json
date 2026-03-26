@@ -1,0 +1,46 @@
+{
+    "filename": "sample",
+    "summary": "Machine learning, a subset of AI, allows systems to learn from data without being explicitly programmed. Deep learning uses neural networks with multiple layers to solve complex problems such as image recognition and natural language processing. These models are capable of generating text, code, and images based on user prompts.",
+    "keywords": [
+        "Artificial Intelligence",
+        "unprecedented pace",
+        "IBM Watson",
+        "technology industry",
+        "Intelligence",
+        "IBM",
+        "Artificial",
+        "pace",
+        "transforming",
+        "industry"
+    ],
+    "entities": {
+        "PERSON": [
+            "Artificial Intelligence",
+            "IBM Watson",
+            "GPT-4"
+        ],
+        "ORG": [
+            "IBM",
+            "Google",
+            "Microsoft",
+            "AI"
+        ],
+        "MONEY": [
+            "billions of dollars"
+        ],
+        "GPE": [
+            "AI"
+        ],
+        "CARDINAL": [
+            "one"
+        ],
+        "DATE": [
+            "2024"
+        ]
+    },
+    "stats": {
+        "total_words": 136,
+        "total_entities": 11,
+        "total_keywords": 10
+    }
+}
